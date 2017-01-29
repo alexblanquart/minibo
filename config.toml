@@ -18,8 +18,8 @@ category = "categories"
   description = "Describe your website"
   copyright = "&copy;2016 Minibo"
   sidebarAbout = [
-    "Polyvalente, créative je suis Minibo qui aime tout faire!",
-    "De formation Ingénieur, marketing, et avec un diplôme de coordinatrice sociale, en passant par ma passion pour les arts plastiques, je suis une créatrice qui aime animer et proposer de nouvelles aventures créatives."
+    "POLYVALENTE, CRÉATIVE, ANIMATRICE ÉCOLO",
+    "Accompagnatrice de vos projets créatifs!"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -43,7 +43,7 @@ category = "categories"
 
   [[params.navlinks]]
   name = "Mes savoir-faire"
-  url = "expertises/"
+  url = "expertise/"
 
   [[params.navlinks]]
   name = "Qui Suis-Je?"
@@ -51,11 +51,11 @@ category = "categories"
 
   [[params.navlinks]]
   name = "Prestations"
-  url = "services/"
+  url = "service/"
 
   [[params.navlinks]]
   name = "Partenaires"
-  url = "partners/"
+  url = "partner/"
 
   [[params.navlinks]]
   name = "Contact"

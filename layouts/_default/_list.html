@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+ 	<div class="row">
+  	{{ range .Data.Pages }}
+    	<div class="col-xs-12 col-sm-6 col-md-4">
+      		<div class="content-column-content">
+         		<img src="{{ .Params.img }}" class="img-responsive"/>
+      		</div>
+  		</div>
+  	{{end}}
+  	</div>
+</div>
+{{ end }}

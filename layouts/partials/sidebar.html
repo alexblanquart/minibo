@@ -1,17 +1,21 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <!--<h1 class="sidebar-heading"><a href="/">{{ .Site.Title }}</a></h1>-->
-    <img src="/img/logo.png" class="img-responsive"/>
+    {{ $url := .Site.BaseURL }}
+    <a href="{{ $url }}"><img src="/img/logo.png" class="img-responsive"/></a>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
     <ul class="sidebar-menu">
-      {{ $url := .Site.BaseURL }}
+      {{ $taxonomies := .Site.Taxonomies }}
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
-      {{ end }}
-      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+          {{ if eq .url "expertise/" }}
+            <ul class="sidebar-menu">
+            {{ range $key, $taxonomy := $taxonomies.categories }}
+              <li><a href="/categories/{{ $key | urlize }}">{{ $key }}</a></li>
+            {{ end }}
+            </ul>
+          {{ end }}
       {{ end }}
     </ul>
     {{ partial "socialButtonsInSideBar.html" . }}
