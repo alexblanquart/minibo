@@ -16,7 +16,7 @@ category = "categories"
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Minibo"
+  copyright = "&copy;2017 Minibo"
   sidebarAbout = [
     "POLYVALENTE, CRÉATIVE, ANIMATRICE ÉCOLO",
     "Accompagnatrice de vos projets créatifs!"
