@@ -6,14 +6,11 @@
           {{ range .Data.Pages }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
-                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                      <a href="#modal-{{ .Title }}" data-toggle="modal" title="" class="box-masonry-image with-hover-overlay">
                           <img src="{{ .Params.img }}" alt="" class="img-responsive">
                       </a>
                       <div class="box-masonry-hover-text-header">
-                          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                          <div class="box-masonry-desription">
-                              <p>{{ .Summary }}</p>
-                          </div>
+                          <h4><a href="#modal-{{ .Title }}" data-toggle="modal">{{ .Title }}</a></h4>
                       </div>
                   </div>
               </div>
@@ -21,4 +18,28 @@
         </div>
     </div>
 </div>
+
+{{ range .Data.Pages}}
+<div id="modal-{{ .Title }}" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">{{ .Title }}</h4>
+      </div>
+      <div class="modal-body">
+        <div class="owl-carousel owl-theme">
+          {{ range .Params.modal }}
+            <div class="item"><img src="{{ . }}" class="img-responsive"></div>
+          {{ end }}
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+{{ end }}
+
 {{ end }}

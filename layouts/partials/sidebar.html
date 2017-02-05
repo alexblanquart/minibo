@@ -11,9 +11,16 @@
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
           {{ if eq .url "expertise/" }}
             <ul class="sidebar-menu">
-            {{ range $key, $taxonomy := $taxonomies.categories }}
+            <!--{{ range $key, $taxonomy := $taxonomies.categories }}
               <li><a href="/categories/{{ $key | urlize }}">{{ $key }}</a></li>
-            {{ end }}
+            {{ end }}-->
+              <li><a href="/categories/les-partages-green-atitude">Les partages green attitude</a></li>
+              <li><a href="/categories/les-outils-pédagogiques">Les outils pédagogiques</a></li>
+              <li><a href="/categories/les-déguisements-et-les-jouets">Les déguisements et les jouets</a></li>
+              <li><a href="/categories/la-couture-enfantin-et-pas-que-ça">La couture enfantin' et pas que ça</a></li>
+              <li><a href="/categories/le-cartonnage">Le cartonnage</a></li>
+              <li><a href="/categories/aux-pinceaux">Aux pinceaux</a></li>
+              <li><a href="/categories/les-zautres">Les Z'autres</a></li>
             </ul>
           {{ end }}
       {{ end }}

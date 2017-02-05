@@ -2,8 +2,201 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/about/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/partner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/partner/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/arts-plastiques/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/ateliers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/boite-bijoux1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/butai1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/butai11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/cakes1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/cartonnage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/chapeau1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/chats1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/collage1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/customisation-marionette1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/deguisement1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/gigoteuse1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/gravure1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/hippy1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/jeux-et-jouets/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/marionette1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/marionette11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/marionette21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/mei-tei1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/noel1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/oiseaux1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/outils-p%C3%A9dagogiques/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/pate-a-sucre1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/pate-savon1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/peinture-vegetale1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/peinture1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/pirate1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/portefeuille1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/princesse1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/p%C3%A2tisseries/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/sacs-et-enfants/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/sapin-calendrier1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/star-wars1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/expertise/tableau-conquetes1/</loc>
   </url>
   
 </urlset>
