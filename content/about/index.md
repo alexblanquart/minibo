@@ -2,23 +2,22 @@
 title = "Qui Suis-Je?"
 +++
 
-#### “J’aime imaginer, créer des  objets, accessoires pour les grands et pour les petits. Polyvalente, créative je conçois des projets pédagogiques sur mesure”
+#### “J’aime imaginer, créer des objets, accessoires pour les grands et pour les petits. Polyvalente, créative je conçois des projets pédagogiques sur mesure”
   
 ![This is me][1]
 
-### Un parcours créatif... 
-Élévée aux loisirs créatifs et dans un village vinicole, influenciée par un grand-père fabricant de jouets en bois et vinicole, un papa doué pour les gabroullis, une maman bricouleuse, céramiste et tapissière, et des tantes coutières et broderières ... évidement les ciseaux, les aiguilles, les crayons, le bois ont fait partir de ma vie... 
+### Un parcours créatif mais pas que... 
 
-Je ne me souviens pas à partir de quelle âge j'ai commencé à me ballader au millieux des machines, du bois, des forneux céramiques ... et des vignobles de mon grand-père... Mais j'ai pu aprendre mes savoir-faires naturellement très tôt plusieurs tecnniques manuelles. 
+Influencée par un grand-père fabricant de son propre vin, de jouets en bois, un papa doué pour le dessin, une maman bricoleuse, céramiste, et des tantes couturières ... évidement les ciseaux, les aiguilles, les crayons, le bois ont fait parti de ma vie depuis toujours...  
 
-A mes 12 ans la Création d'objets c'était une évidence pour moi, de tester nouvelles matières, j'ai donc suivi un parcours dites arts manuelles au collège. J'ai pu renforcer mes expertises du bois à la céramique, de la tapisserie au collage, du dessin à la sculture, de la poterie au métal, je me suis amusée à découvrir ces differents techniques ... ). Au lycée évidement, j'ai choisi un lycée professionnel option en arts plastiques. J'ai appris le design, l'ergononomie, la géometrie descriptif, l'histoire de l'art, les techniques du dessin, les divers techniques de peinture, fusain ... 
+A mes 12 ans, au collège, je suis naturellement un parcours d'arts manuels. Je renforce mes expertises du bois à la céramique, de la tapisserie au collage, du dessin à la sculpture, de la poterie au métal. Je m'amuse à découvrir ces différentes techniques ... Je continue au lycée professionnel option arts plastiques pour apprendre le design, l'ergononomie, la géometrie descriptive, l'histoire de l'art, les techniques du dessin, les diverses techniques de peinture, de fusain ... 
 
-Après un BAC arts plastiques par un besoin familliale, il me fallait m'orienter pour la production du vin, de façon à suivre les mêmes empreintes que mon grand-père... J'embarque un parcours d'ingénieur de Production Biologique pour comprendre les techniques naturels, et comment cultiver et entretenir une agriculture sans pesticides. 
-Toujours en parallèlle j'ai réalisé d'interventions au sein de centre sociaux, écoles, crèches faisait et de réalisations personnelles.
+Après un BAC arts plastiques, je m'oriente dans la production vinicole, de façon à suivre les mêmes empreintes que mon grand-père... J'embarque dans un parcours d'ingénieur de Production Biologique pour comprendre les techniques naturelles, et comment cultiver et entretenir une agriculture sans pesticides. 
+Toujours en parallèlle je réalise des interventions au sein de centres sociaux, écoles, crèches.
 
-En 2008, pour bloquer mes études je debarque à Bordeaux ... et j'y suis restait en France jusqu'aujourd'hui. 
-J'ai eu un coup de couer pour la France! que peux je dire d'autre ! 
-Pour faciliter mon insértion professionnel j'ai réalisé un équivalence de diplôme français par le biais d'un master en marketing des produits alimentaires au Polytechnique de Lille (Un sacré épreuve pour moi, 1 an pour maîtriser le français ...). 
+En 2008, pour terminer mes études, j'arrive à Bordeaux ... Je suis en France encore maintenant. 
+J'ai un coup de coeur pour la France! que puis-je dire d'autre ! 
+Pour faciliter mon insertion professionnelle je réalise une équivalence de diplôme français et un master en marketing des produits alimentaires à Polytech Lille : une sacré épreuve pour moi, 1 an pour maîtriser le français ... 
 
 ### Et Alors mes passions manuelles, où sont-elles? 
 
