@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Minibo</title>
+    <link>https://example.org/service/index.xml</link>
+    <description>Recent content in Services on Minibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2017 Minibo</copyright>
+    <atom:link href="https://example.org/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mes prestations</title>
+      <link>https://example.org/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/service/</guid>
+      <description>
+
+&lt;h4 id=&#34;formations&#34;&gt;Formations&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Apprendre à fabriquer des peintures végétales non toxiques à base de fleurs, de fruits, de légumes - 1 journée&lt;/li&gt;
+&lt;li&gt;Apprendre à valoriser les déchets et les considérer comme matière première d’un nouvel objet ludique pour les enfants - 1 journée&lt;/li&gt;
+&lt;li&gt;Sensiblisation à l&amp;rsquo;usage et fabrication des produits d&amp;rsquo;entretien - 1 journée&lt;/li&gt;
+&lt;li&gt;Découvrir et apprendre des nouvelles recettes de pâtes créatives ludiques écologiques - 1 journée&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ateliers-et-formations-sur-mesure&#34;&gt;Ateliers et formations sur mesure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je propose plusieurs formules d’ateliers sur mesure, notamment des ateliers familles
+(parents – enfants), des ateliers enfants adaptés à leur âge, ou des ateliers adultes&lt;/li&gt;
+&lt;li&gt;N&amp;rsquo;hésitez pas à m&amp;rsquo;écrire pour en savoir plus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ateliers-créatifs-adultes-construisons-ensemble-un-outil-pédagogique&#34;&gt;Ateliers créatifs adultes: Construisons ensemble un outil pédagogique!&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je suis là pour vous accompagner dans la conception d&amp;rsquo;un outil pédagogique dédié à l&amp;rsquo;enfant: des tapis comptines, des marionettes, des ateliers, tout est possible!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ateliers-créatifs-enfants-familles&#34;&gt;Ateliers créatifs enfants/ familles&lt;/h4&gt;
+
+&lt;p&gt;Ateliers diverses et éco responsables, tels que: fabricaton de la pâte à modeler maison (durée 1h), fabrication de la pâte durcissante maison (1h30), ateliers découverts des pâtes créatives, ateliers de peinture végtétale, ateliers de détournement d&amp;rsquo;objets, ateliers éco-couture, etc.&lt;/p&gt;
+
+&lt;h4 id=&#34;créations-sur-mesure&#34;&gt;Créations sur mesure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aimeriez-vous faire un cadeau pour quelqu&amp;rsquo;un en spécial, minibo est là pour imaginer pour vous! Un cadeau original et personnalisé!&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Aimerez-vous développer un outil pédagogique pour animer votre strucutre ? Je concevois des outils pédagogiques sur mesure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;offre-sur-mesure&#34;&gt;Offre sur mesure:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Accompagnatrice sur mesure dans vos projets créatifs collectifs ou individuels: envie de mettre en place un projet créatif? un outil pédagogique pour vos enfants? Minibo est là pour vous!&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé à votre rythme &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

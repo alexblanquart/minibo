@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>les-zautres on Minibo</title>
+    <link>https://example.org/categories/les-zautres/index.xml</link>
+    <description>Recent content in les-zautres on Minibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2017 Minibo</copyright>
+    <atom:link href="https://example.org/categories/les-zautres/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noel1</title>
+      <link>https://example.org/expertise/Noel1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/Noel1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biere1</title>
+      <link>https://example.org/expertise/biere1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/biere1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eskisses1</title>
+      <link>https://example.org/expertise/eskisses1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/eskisses1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eskissess1.</title>
+      <link>https://example.org/expertise/eskissess1./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/eskissess1./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>femme-enceinte1</title>
+      <link>https://example.org/expertise/femme-enceinte1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/femme-enceinte1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gateau-ball1</title>
+      <link>https://example.org/expertise/gateau-ball1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/gateau-ball1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gravure1</title>
+      <link>https://example.org/expertise/gravure1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/gravure1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mondrian1</title>
+      <link>https://example.org/expertise/mondrian1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/mondrian1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oui-oui1</title>
+      <link>https://example.org/expertise/oui-oui1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/oui-oui1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>star-wars1</title>
+      <link>https://example.org/expertise/star-wars1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/star-wars1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super-papa1</title>
+      <link>https://example.org/expertise/super-papa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/super-papa1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

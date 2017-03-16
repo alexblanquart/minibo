@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Minibo</title>
+    <link>https://example.org/partner/index.xml</link>
+    <description>Recent content in Partners on Minibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2017 Minibo</copyright>
+    <atom:link href="https://example.org/partner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ils me font confiance</title>
+      <link>https://example.org/partner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/partner/</guid>
+      <description>
+
+&lt;h4 id=&#34;méli-mélo&#34;&gt;Méli Mélo&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Un partenaire fidèle dans la conception des jouets ludiques pour l’éveil des enfants&lt;/li&gt;
+&lt;li&gt;Participation à la création d’outils pédagogiques Jardin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;colline-acepp&#34;&gt;Colline Acepp&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chargée de mission du programme Eco2Crèche: prestataire formatrice et animatrice des actions eco2crèche, Accompagnement et Conception des outils pédagogiques pour la malle pédagogique eco2crèche&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>les-déguisements-et-les-jouets on Minibo</title>
+    <link>https://example.org/categories/les-d%C3%A9guisements-et-les-jouets/index.xml</link>
+    <description>Recent content in les-déguisements-et-les-jouets on Minibo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2017 Minibo</copyright>
+    <atom:link href="https://example.org/categories/les-d%C3%A9guisements-et-les-jouets/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>chevaux1</title>
+      <link>https://example.org/expertise/chevaux1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/chevaux1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deguisement1</title>
+      <link>https://example.org/expertise/deguisement1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/deguisement1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doudou1</title>
+      <link>https://example.org/expertise/doudou1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/doudou1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poupe1</title>
+      <link>https://example.org/expertise/poupe1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/expertise/poupe1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

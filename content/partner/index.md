@@ -1,5 +1,5 @@
 +++
-title = "Partenaires"
+title = "Ils me font confiance"
 +++
 
 #### Méli Mélo
@@ -9,4 +9,4 @@ title = "Partenaires"
 
 #### Colline Acepp 
 
-* Chargée de mission du programme Eco2Crèche : prestataire formatrice et animatrice des actions eco2crèche, Accompagnement et Conception des outils pédagogiques pour la malle pédagogique eco2crèche
+* Chargée de mission du programme Eco2Crèche: prestataire formatrice et animatrice des actions eco2crèche, Accompagnement et Conception des outils pédagogiques pour la malle pédagogique eco2crèche
