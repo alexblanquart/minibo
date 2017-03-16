@@ -1,4 +1,4 @@
-baseurl = "http://alexblanquart.github.io/minibo/"
+baseurl = "http://alexblanquart.github.io/minibo"
 title = "Minibo"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "fr"
