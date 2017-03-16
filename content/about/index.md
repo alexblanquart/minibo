@@ -41,4 +41,4 @@ Polyvalente, créative, je suis Minibo une créatrice, formatrice, animatrice qu
 * Animations ateliers pratiques pour les professionnels Petite Enfance à but lucratif, les parents et les enfants de 0 - 6 ans aux pratiques éco-responsables (pâte créatives, peinture végétale, produits d’hygiène corporelle, produits d’entretiens naturels)
 * Coordination et Animation d’Ateliers pour aider à concevoir vos projets éveil enfant éco-responsables
 
-[1]: {{ .Site.BaseURL }}/img/me.png
+[1]: /img/me.png

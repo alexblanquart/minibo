@@ -19,7 +19,7 @@
 
 &lt;h4 id=&#34;j-aime-imaginer-créer-des-objets-accessoires-pour-les-grands-et-pour-les-petits-polyvalente-créative-je-conçois-des-projets-pédagogiques-sur-mesure&#34;&gt;“J’aime imaginer, créer des objets, accessoires pour les grands et pour les petits. Polyvalente, créative je conçois des projets pédagogiques sur mesure”&lt;/h4&gt;
 
-&lt;p&gt;![This is me][1]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://alexblanquart.github.io/minibo/img/me.png&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;un-parcours-créatif-mais-pas-que&#34;&gt;Un parcours créatif mais pas que&amp;hellip;&lt;/h4&gt;
 
@@ -57,8 +57,6 @@ Polyvalente, créative, je suis Minibo une créatrice, formatrice, animatrice qu
 &lt;li&gt;Animations ateliers pratiques pour les professionnels Petite Enfance à but lucratif, les parents et les enfants de 0 - 6 ans aux pratiques éco-responsables (pâte créatives, peinture végétale, produits d’hygiène corporelle, produits d’entretiens naturels)&lt;/li&gt;
 &lt;li&gt;Coordination et Animation d’Ateliers pour aider à concevoir vos projets éveil enfant éco-responsables&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;[1]: {{ .Site.BaseURL }}/img/me.png&lt;/p&gt;
 </description>
     </item>
     
