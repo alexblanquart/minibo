@@ -14,13 +14,13 @@
             <!--{{ range $key, $taxonomy := $taxonomies.categories }}
               <li><a href="/categories/{{ $key | urlize }}">{{ $key }}</a></li>
             {{ end }}-->
-              <li><a href="{{.Site.BaseURL}}/categories/les-partages-green-atitude">Les partages green attitude</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/les-outils-pédagogiques">Les outils pédagogiques</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/les-déguisements-et-les-jouets">Les déguisements et les jouets</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/la-couture-enfantin-et-pas-que-ça">La couture enfantin' et pas que ça</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/le-cartonnage">Le cartonnage</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/aux-pinceaux">Aux pinceaux</a></li>
-              <li><a href="{{.Site.BaseURL}}/categories/les-zautres">Les Z'autres</a></li>
+              <li><a href="{{ $url }}/categories/les-partages-green-atitude">Les partages green attitude</a></li>
+              <li><a href="{{ $url }}/categories/les-outils-pédagogiques">Les outils pédagogiques</a></li>
+              <li><a href="{{ $url }}/categories/les-déguisements-et-les-jouets">Les déguisements et les jouets</a></li>
+              <li><a href="{{ $url }}/categories/la-couture-enfantin-et-pas-que-ça">La couture enfantin' et pas que ça</a></li>
+              <li><a href="{{ $url }}/categories/le-cartonnage">Le cartonnage</a></li>
+              <li><a href="{{ $url }}/categories/aux-pinceaux">Aux pinceaux</a></li>
+              <li><a href="{{ $url }}/categories/les-zautres">Les Z'autres</a></li>
             </ul>
           {{ end }}
       {{ end }}
