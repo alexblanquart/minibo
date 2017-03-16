@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on Minibo</title>
-    <link>https://example.org/partner/index.xml</link>
+    <link>http://alexblanquart.github.io/minibo/partner/index.xml</link>
     <description>Recent content in Partners on Minibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy;2017 Minibo</copyright>
-    <atom:link href="https://example.org/partner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexblanquart.github.io/minibo/partner/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ils me font confiance</title>
-      <link>https://example.org/partner/</link>
+      <link>http://alexblanquart.github.io/minibo/partner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/partner/</guid>
+      <guid>http://alexblanquart.github.io/minibo/partner/</guid>
       <description>
 
 &lt;h4 id=&#34;méli-mélo&#34;&gt;Méli Mélo&lt;/h4&gt;

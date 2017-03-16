@@ -2,145 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aux-pinceaux on Minibo</title>
-    <link>https://example.org/categories/aux-pinceaux/index.xml</link>
+    <link>http://alexblanquart.github.io/minibo/categories/aux-pinceaux/index.xml</link>
     <description>Recent content in aux-pinceaux on Minibo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy;2017 Minibo</copyright>
-    <atom:link href="https://example.org/categories/aux-pinceaux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexblanquart.github.io/minibo/categories/aux-pinceaux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>arcachon1</title>
-      <link>https://example.org/expertise/arcachon1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/arcachon1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/arcachon1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/arcachon1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chevalier1</title>
-      <link>https://example.org/expertise/chevalier1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/chevalier1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/chevalier1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/chevalier1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>copie tableau1</title>
-      <link>https://example.org/expertise/copie%20tableau1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/copie%20tableau1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/copie%20tableau1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/copie%20tableau1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>girafe1</title>
-      <link>https://example.org/expertise/girafe1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/girafe1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/girafe1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/girafe1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>karpas1</title>
-      <link>https://example.org/expertise/karpas1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/karpas1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/karpas1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/karpas1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>le-cerisier1</title>
-      <link>https://example.org/expertise/le-cerisier1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/le-cerisier1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/le-cerisier1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/le-cerisier1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>le-penseur1</title>
-      <link>https://example.org/expertise/le-penseur1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/le-penseur1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/le-penseur1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/le-penseur1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>le-secret</title>
-      <link>https://example.org/expertise/le-secret/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/le-secret/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/le-secret/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/le-secret/</guid>
       <description></description>
     </item>
     
     <item>
       <title>les-amoureuses</title>
-      <link>https://example.org/expertise/les-amoureuses/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/les-amoureuses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/les-amoureuses/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/les-amoureuses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>les-amoureux1</title>
-      <link>https://example.org/expertise/les-amoureux1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/les-amoureux1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/les-amoureux1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/les-amoureux1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ours1</title>
-      <link>https://example.org/expertise/ours1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/ours1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/ours1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/ours1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pirate1</title>
-      <link>https://example.org/expertise/pirate1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/pirate1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/pirate1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/pirate1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>princesse1</title>
-      <link>https://example.org/expertise/princesse1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/princesse1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/princesse1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/princesse1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tableau</title>
-      <link>https://example.org/expertise/tableau/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/tableau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/tableau/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visage-loup-arc1</title>
-      <link>https://example.org/expertise/visage-loup-arc1/</link>
+      <link>http://alexblanquart.github.io/minibo/expertise/visage-loup-arc1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/expertise/visage-loup-arc1/</guid>
+      <guid>http://alexblanquart.github.io/minibo/expertise/visage-loup-arc1/</guid>
       <description></description>
     </item>
     
