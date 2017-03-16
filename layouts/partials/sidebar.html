@@ -8,7 +8,7 @@
     <ul class="sidebar-menu">
       {{ $taxonomies := .Site.Taxonomies }}
       {{ range .Site.Params.navlinks }}
-        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+        <li><a href="{{ $url }}/{{ .url }}">{{ .name }}</a></li>
           {{ if eq .url "expertise/" }}
             <ul class="sidebar-menu">
             <!--{{ range $key, $taxonomy := $taxonomies.categories }}
